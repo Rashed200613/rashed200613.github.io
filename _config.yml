@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Riad
+first_name: Md.
 middle_name:
-last_name: Hassan
+last_name: Rashed
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -266,8 +266,8 @@ display_categories: [] # these categories will be displayed on the front page of
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Hassan]
-  first_name: [Riad, R., Md. Riad, Md Riad]
+  last_name: [Rashed]
+  first_name: [Rashed, M., Md. Rashed, Md, M., Md.]
 
   style: apa
   locale: en
