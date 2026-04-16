@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Researcher
+subtitle: Research Assistant at BioRAIN Lab
 
 profile:
   align: right
