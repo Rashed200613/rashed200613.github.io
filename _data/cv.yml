@@ -130,6 +130,11 @@ cv:
           - Model training and evaluation
           - Integrated alert system using Telegram and Twilio
 
+      - name: GitHub Contributions
+        highlights:
+          - "Prettier code formatter (#95) – Commit 6896633 pushed"
+          - "Checked and fixed broken links on site (#91)"
+
       - name: IoT-Based Smart Waste Management System
       - name: Dual-Axis Solar Tracking System
       - name: Smart Home Security System
