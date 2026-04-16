@@ -89,29 +89,104 @@
 
   "publications": [
     {
-      "name": "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection",
-      "publisher": "Healthcare Technology Letters",
-      "releaseDate": "2026"
+      "type": "journal",
+      "year": 2026,
+      "title": "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images",
+      "authors": ["Md. Rashed", "Md. Imran Hossain", "Abdullah Nazib", "Md. Riad Hassan"],
+      "journal": "Computer Methods and Programs in Biomedicine",
+      "status": "Submitted"
     },
     {
-      "name": "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation",
-      "publisher": "Biomedical Signal Processing and Control",
-      "releaseDate": "2026"
+      "type": "journal",
+      "year": 2026,
+      "title": "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound",
+      "authors": ["Md. Rashed", "Md. Imran Hossain", "Md Jamil", "Md. Riad Hassan", "Md. Kamrul Hasan", "Adnan Kavak", "Özgür Çakır"],
+      "journal": "Biomedical Signal Processing and Control",
+      "status": "Submitted"
     },
     {
-      "name": "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation",
-      "publisher": "Computer Methods and Programs in Biomedicine",
-      "releaseDate": "2026"
+      "type": "journal",
+      "year": 2026,
+      "title": "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection",
+      "authors": ["Md. Rashed", "Mohammad Kamrul Hasan", "Md. Imran Hossain", "Md. Sarwar Hosain", "Abdul Hadi Abd Rahman", "Shayla Islam"],
+      "journal": "Healthcare Technology Letters",
+      "status": "Accepted, not online yet"
     },
     {
-      "name": "Hybrid Machine Learning Models for Type 2 Diabetes Mellitus Prediction",
-      "publisher": "Cureus",
-      "releaseDate": "2025"
+      "type": "journal",
+      "year": 2025,
+      "title": "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach",
+      "authors": ["Md. Rashed", "Md Imran Hossain", "Akif Mahdi", "Gulam Mustofa"],
+      "journal": "Cureus"
     },
     {
-      "name": "Improving Speech Emotion Recognition Using Hybrid CNN-LSTM-KNN",
-      "publisher": "IJRPR",
-      "releaseDate": "2024"
+      "type": "journal",
+      "year": 2024,
+      "title": "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model",
+      "authors": ["Md Imran Hossain", "Md Mojahidul Islam", "Tania Nahrin", "Md Rashed", "Md Atiqur"],
+      "journal": "IJRPR"
+    },
+
+    {
+      "type": "conference",
+      "year": 2025,
+      "title": "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation",
+      "authors": ["M. Rashed", "M. I. Hossain", "A. Kavak"],
+      "conference": "IEEE CIEES 2025",
+      "note": "Best Paper Award",
+      "doi": "10.1109/CIEES66347.2025.11300119"
+    },
+    {
+      "type": "conference",
+      "year": 2025,
+      "title": "An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring",
+      "authors": ["M. Rashed", "M. I. Hossain", "M. Z. Islam", "F. Naznin"],
+      "conference": "IEEE FMLDS 2025",
+      "location": "Los Angeles, USA",
+      "doi": "10.1109/FMLDS67896.2025.00032"
+    },
+    {
+      "type": "conference",
+      "year": 2025,
+      "title": "A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals",
+      "authors": ["Md. Rashed", "Md Imran Hossain", "Md Anwar Hossain", "Md Basim Al Zabir Shammo", "Jakaria Habib"],
+      "conference": "QPAIN 2025"
+    },
+    {
+      "type": "conference",
+      "year": 2025,
+      "title": "Machine learning-based prediction of nightmares in children: A pediatric psychological integration",
+      "authors": ["Md Habibul Islam", "Md Rashed", "Nitun Kumar Podder", "Md Imran Hossain", "Ankur Kumar Mondol"],
+      "conference": "IEEE COMPAS 2025"
+    },
+    {
+      "type": "conference",
+      "year": 2025,
+      "title": "Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model",
+      "authors": ["Md Habibul Islam", "Md Rashed", "Nitun Kumar Podder", "Md Imran Hossain", "Ankur Kumar Mondol"],
+      "conference": "QPAIN 2025"
+    },
+    {
+      "type": "conference",
+      "year": 2024,
+      "title": "Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)",
+      "authors": ["Md. Rashed", "Md Imran Hossain", "Md Anwar Hossain"],
+      "conference": "IEEE ICCIT 2024",
+      "pages": "2512-2517"
+    },
+    {
+      "type": "conference",
+      "year": 2024,
+      "title": "RA-UNET: A deep learning approach for precise colorectal polyp segmentation",
+      "authors": ["Md. Rashed", "Md Imran Hossain", "Md Anwar Hossain", "Md Basim Al Zabir Shammo", "Sumayta Shama"],
+      "conference": "UCICS 2024"
+    },
+    {
+      "type": "journal_article",
+      "year": 2024,
+      "title": "Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features",
+      "authors": ["Md Rashed", "Md Imran Hossain", "Md Anwar Hossain", "Md A. Rahim", "Sumayta Shama"],
+      "conference": "UCICS 2024"
     }
   ],
 
@@ -120,9 +195,9 @@
       "name": "AI-Based Real-Time Fire & Accident Detection System",
       "description": "UGC-funded project using YOLOv8 for surveillance and public safety.",
       "highlights": [
-        "Data preprocessing (histogram equalization, optical flow)",
+        "Data preprocessing",
         "Model training and evaluation",
-        "Integrated alert system using Telegram and Twilio"
+        "Telegram and Twilio alert system"
       ]
     },
     {
@@ -158,6 +233,19 @@
     }
   ],
 
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "date": "2025",
+      "awarder": "IEEE CIEES Conference"
+    },
+    {
+      "title": "Best Idea Donor",
+      "date": "2024",
+      "awarder": "PUST Innovation Showcase"
+    }
+  ],
+
   "certificates": [
     {
       "name": "Deep Learning with PyTorch: Image Segmentation",
@@ -175,66 +263,6 @@
     }
   ],
 
-  "awards": [
-    {
-      "title": "Best Paper Award",
-      "date": "2025",
-      "awarder": "IEEE CIEES Conference"
-    },
-    {
-      "title": "Best Idea Donor",
-      "date": "2024",
-      "awarder": "PUST Innovation Showcase"
-    }
-  ],
-
-  "scholarships": [
-    {
-      "title": "Fully Funded Master's Scholarship",
-      "awarder": "Kocaeli University, Turkey",
-      "date": "2025"
-    },
-    {
-      "title": "University Merit Scholarship",
-      "date": "2021"
-    },
-    {
-      "title": "University Merit Scholarship",
-      "date": "2022"
-    },
-    {
-      "title": "University Merit Scholarship",
-      "date": "2023"
-    }
-  ],
-
-  "volunteer": [
-    {
-      "organization": "ICE Association",
-      "position": "Research Secretary"
-    },
-    {
-      "organization": "ICT Olympiad Bangladesh",
-      "position": "District School Team Manager"
-    },
-    {
-      "organization": "RRDW",
-      "position": "Chief of Course Management"
-    },
-    {
-      "organization": "Bangladesh Career Olympiad",
-      "position": "Campus Ambassador"
-    },
-    {
-      "organization": "Solver Green",
-      "position": "Coordinator"
-    },
-    {
-      "organization": "Barisal Student Welfare Association",
-      "position": "President"
-    }
-  ],
-
   "languages": [
     {
       "language": "English",
@@ -243,21 +271,6 @@
     {
       "language": "Bangla",
       "fluency": "Native"
-    }
-  ],
-
-  "references": [
-    {
-      "name": "Dr. Md. Imran Hossain",
-      "reference": "Associate Professor, Dept. of ICE, PUST | imran05ice@pust.ac.bd"
-    },
-    {
-      "name": "Prof. Dr. Md. Anwar Hossain",
-      "reference": "Chairman, Dept. of ICE, PUST | manwar.ice@pust.ac.bd"
-    },
-    {
-      "name": "Prof. Dr. Md. Sarwar Hosain",
-      "reference": "Professor, Dept. of ICE, PUST | sarwar.ice@pust.ac.bd"
     }
   ]
 }
