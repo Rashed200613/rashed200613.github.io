@@ -75,7 +75,7 @@ cv:
         releaseDate: 2026
 
       - title: SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound
-        publisher: Scientific Reports 
+        publisher: Scientific Reports
         releaseDate: 2026
 
       - title: A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images
@@ -90,35 +90,35 @@ cv:
         publisher: IJRPR
         releaseDate: 2024
 
-        - title: Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation
+      - title: Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation
         publisher: CIEES
         releaseDate: 2025
 
-        - title: An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring
+      - title: An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring
         publisher: IEEE FMLDS
         releaseDate: 2025
 
-        - title: A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals
+      - title: A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals
         publisher: IEEE QPAIN
         releaseDate: 2025
 
-        - title: Machine learning-based prediction of nightmares in children: A pediatric psychological integration
+      - title: Machine learning-based prediction of nightmares in children: A pediatric psychological integration
         publisher: IEEE COMPAS
         releaseDate: 2025
 
-        - title: Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model
+      - title: Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model
         publisher: IEEE QPAIN
         releaseDate: 2025
 
-        - title: Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)
+      - title: Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)
         publisher: IEEE ICCIT
         releaseDate: 2024
 
-        - title: RA-UNET: A deep learning approach for precise colorectal polyp segmentation
+      - title: RA-UNET: A deep learning approach for precise colorectal polyp segmentation
         publisher: UCICS
         releaseDate: 2024
 
-        - title: Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features 
+      - title: Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features
         publisher: UCICS
         releaseDate: 2024
 
