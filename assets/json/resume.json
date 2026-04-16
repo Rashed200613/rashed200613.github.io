@@ -1,221 +1,268 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Md. Rashed",
+    "label": "Researcher in AI, Computer Vision & Medical Imaging",
+    "image": "Rashed_Profile.png",
+    "email": "rashedulislam.ice.pust@gmail.com",
+    "phone": "+8801780340222",
+    "url": "https://rashed200613.github.io/",
+    "summary": "I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). I have actively engaged in research, academic, and innovation activities, including government-funded projects. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and IoT. I am currently seeking a Research Associate or academic position to contribute to both education and impactful research.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Pabna",
+      "countryCode": "BD"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "url": "https://github.com/rashed200613"
+      },
+      {
+        "network": "LinkedIn",
+        "url": "https://www.linkedin.com/in/md-rashed-9a9a33217/"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=e6PyOpAAAAAJ&hl=en"
+      },
+      {
+        "network": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/Md-Rashed-23"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0009-0003-5503-0450"
+      }
+    ]
   },
+
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "BioRAIN Research Lab",
+      "position": "Research Assistant",
+      "startDate": "2024-03",
+      "endDate": "present",
+      "url": "https://biorainlab.net/author/md.-rashed/",
+      "highlights": [
+        "Conduct research in medical imaging and AI",
+        "Develop deep learning models for segmentation and detection",
+        "Collaborate on international journal publications"
+      ]
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
-      "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Pabna University of Science and Technology (PUST)",
+      "position": "Assistant Researcher",
+      "startDate": "2024-07",
+      "endDate": "2025-06",
+      "highlights": [
+        "Worked on academic research and innovation projects",
+        "Assisted in research paper writing and experimentation"
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Pabna University of Science and Technology",
+      "area": "Information and Communication Engineering",
+      "studyType": "B.Sc. (Engineering)",
+      "startDate": "2020",
+      "endDate": "2025",
+      "score": "CGPA: 3.73/4.00",
+      "thesis": "A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
-      "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Charfasson Govt. College",
+      "studyType": "HSC",
+      "endDate": "2019",
+      "score": "GPA: 4.58/5.00"
+    },
+    {
+      "institution": "Osmangonj High School",
+      "studyType": "SSC",
+      "endDate": "2017",
+      "score": "GPA: 4.82/5.00"
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    },
-    {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
-    }
-  ],
+
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images",
+      "publisher": "Computer Methods and Programs in Biomedicine",
+      "releaseDate": "2026",
+      "status": "Submitted"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2026",
+      "status": "Submitted"
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection",
+      "publisher": "Healthcare Technology Letters",
+      "releaseDate": "2026",
+      "status": "Accepted"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction",
+      "publisher": "Cureus",
+      "releaseDate": "2025"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Improving Speech Emotion Recognition Using Hybrid CNN-LSTM-KNN",
+      "publisher": "IJRPR",
+      "releaseDate": "2024"
     }
   ],
+
+  "conferences": [
+    {
+      "name": "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation",
+      "event": "IEEE CIEES 2025",
+      "award": "Best Paper Award"
+    },
+    {
+      "name": "AI-Based Surveillance with YOLOv8",
+      "event": "IEEE FMLDS 2025"
+    },
+    {
+      "name": "Stress Detection using PPG",
+      "event": "QPAIN 2025"
+    },
+    {
+      "name": "Type-2 Diabetes Prediction (IEF)",
+      "event": "ICCIT 2024"
+    }
+  ],
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "AI-Based Real-Time Fire & Accident Detection System",
+      "summary": "UGC-funded project using YOLOv8 for fire, accident, and license plate detection",
+      "highlights": [
+        "Data preprocessing (histogram equalization, optical flow)",
+        "Model training and evaluation",
+        "System integration with Telegram and Twilio alerts"
+      ]
+    },
+    {
+      "name": "IoT-Based Smart Waste Management System"
+    },
+    {
+      "name": "Dual-Axis Solar Tracking System"
+    },
+    {
+      "name": "Smart Home Security System using Object Recognition"
+    },
+    {
+      "name": "ICE Connect App"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "keywords": ["Python", "C", "C++", "Java", "PHP", "MATLAB", "Arduino"]
+    },
+    {
+      "name": "Web",
+      "keywords": ["Django", "Flask", "Bottle", "WordPress"]
+    },
+    {
+      "name": "Database",
+      "keywords": ["MySQL", "SQLite", "SQL Server"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["PyCharm", "LaTeX", "Cisco Packet Tracer", "Proteus"]
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Deep Learning with PyTorch: Image Segmentation",
+      "issuer": "Coursera",
+      "credentialId": "J9DDSNF5RK7U"
+    },
+    {
+      "name": "Python for Everybody Specialization",
+      "issuer": "University of Michigan (Coursera)",
+      "credentialId": "4VWXRCJBTJSA"
+    },
+    {
+      "name": "Reviewer Certificate - ICEEI2025"
+    }
+  ],
+
+  "awards": [
+    {
+      "title": "Best Paper Award",
+      "event": "IEEE CIEES 2025"
+    },
+    {
+      "title": "Best Idea Donor",
+      "event": "Innovation Showcase, PUST"
+    }
+  ],
+
+  "scholarships": [
+    {
+      "title": "Fully Funded Master's Scholarship",
+      "institution": "Kocaeli University, Turkey",
+      "status": "Admitted (Fall 2025) but study not commenced due to visa constraints"
+    },
+    {
+      "title": "University Merit Scholarship",
+      "year": "2021"
+    },
+    {
+      "title": "University Merit Scholarship",
+      "year": "2022"
+    },
+    {
+      "title": "University Merit Scholarship",
+      "year": "2023"
+    }
+  ],
+
+  "volunteer": [
+    "Research Secretary at ICE Association",
+    "District School Team Manager at ICT Olympiad Bangladesh",
+    "Chief of Course Management at RRDW",
+    "Campus Ambassador at Bangladesh Career Olympiad",
+    "Coordinator at Solver Green",
+    "President, Barisal Student Welfare Association"
+  ],
+
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Bangla",
+      "fluency": "Native"
+    }
+  ],
+
+  "references": [
+    {
+      "name": "Dr. Md. Imran Hossain",
+      "position": "Associate Professor, Dept. of ICE, PUST",
+      "phone": "+8801759320341",
+      "email": "imran05ice@pust.ac.bd"
+    },
+    {
+      "name": "Prof. Dr. Md. Anwar Hossain",
+      "position": "Chairman, Dept. of ICE, PUST",
+      "phone": "+8801717330923",
+      "email": "manwar.ice@pust.ac.bd"
+    },
+    {
+      "name": "Prof. Dr. Md. Sarwar Hosain",
+      "position": "Professor, Dept. of ICE, PUST",
+      "phone": "+8801722047833",
+      "email": "sarwar.ice@pust.ac.bd"
     }
   ]
 }
