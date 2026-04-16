@@ -2,11 +2,10 @@
   "basics": {
     "name": "Md. Rashed",
     "label": "Researcher in AI, Computer Vision & Medical Imaging",
-    "image": "Rashed_Profile.png",
     "email": "rashedulislam.ice.pust@gmail.com",
     "phone": "+8801780340222",
     "url": "https://rashed200613.github.io/",
-    "summary": "I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). I have actively engaged in research, academic, and innovation activities, including government-funded projects. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and IoT. I am currently seeking a Research Associate or academic position to contribute to both education and impactful research.",
+    "summary": "Researcher with a B.Sc. in Information and Communication Engineering from PUST. Experienced in deep learning, biomedical image processing, and AI-based systems. Actively involved in research projects and international publications, focusing on medical imaging and intelligent systems.",
     "location": {
       "city": "Pabna",
       "countryCode": "BD"
@@ -39,22 +38,24 @@
     {
       "name": "BioRAIN Research Lab",
       "position": "Research Assistant",
-      "startDate": "2024-03",
-      "endDate": "present",
       "url": "https://biorainlab.net/author/md.-rashed/",
+      "startDate": "2024-03-01",
+      "endDate": "",
+      "summary": "Working on AI and medical imaging research.",
       "highlights": [
-        "Conduct research in medical imaging and AI",
-        "Develop deep learning models for segmentation and detection",
-        "Collaborate on international journal publications"
+        "Develop deep learning models for segmentation tasks",
+        "Collaborate on international journal publications",
+        "Conduct experiments and model evaluations"
       ]
     },
     {
-      "name": "Pabna University of Science and Technology (PUST)",
+      "name": "Pabna University of Science and Technology",
       "position": "Assistant Researcher",
-      "startDate": "2024-07",
-      "endDate": "2025-06",
+      "startDate": "2024-07-01",
+      "endDate": "2025-06-01",
+      "summary": "Department of Information and Communication Engineering",
       "highlights": [
-        "Worked on academic research and innovation projects",
+        "Worked on academic and research projects",
         "Assisted in research paper writing and experimentation"
       ]
     }
@@ -64,47 +65,46 @@
     {
       "institution": "Pabna University of Science and Technology",
       "area": "Information and Communication Engineering",
-      "studyType": "B.Sc. (Engineering)",
-      "startDate": "2020",
-      "endDate": "2025",
-      "score": "CGPA: 3.73/4.00",
-      "thesis": "A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
+      "studyType": "BSc",
+      "startDate": "2020-03-01",
+      "endDate": "2025-09-08",
+      "score": "3.73/4.00",
+      "courses": [
+        "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
+      ]
     },
     {
       "institution": "Charfasson Govt. College",
       "studyType": "HSC",
       "endDate": "2019",
-      "score": "GPA: 4.58/5.00"
+      "score": "4.58/5.00"
     },
     {
       "institution": "Osmangonj High School",
       "studyType": "SSC",
       "endDate": "2017",
-      "score": "GPA: 4.82/5.00"
+      "score": "4.82/5.00"
     }
   ],
 
   "publications": [
     {
-      "name": "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images",
-      "publisher": "Computer Methods and Programs in Biomedicine",
-      "releaseDate": "2026",
-      "status": "Submitted"
-    },
-    {
-      "name": "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound",
-      "publisher": "Biomedical Signal Processing and Control",
-      "releaseDate": "2026",
-      "status": "Submitted"
-    },
-    {
       "name": "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection",
       "publisher": "Healthcare Technology Letters",
-      "releaseDate": "2026",
-      "status": "Accepted"
+      "releaseDate": "2026"
     },
     {
-      "name": "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction",
+      "name": "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation",
+      "publisher": "Biomedical Signal Processing and Control",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation",
+      "publisher": "Computer Methods and Programs in Biomedicine",
+      "releaseDate": "2026"
+    },
+    {
+      "name": "Hybrid Machine Learning Models for Type 2 Diabetes Mellitus Prediction",
       "publisher": "Cureus",
       "releaseDate": "2025"
     },
@@ -115,34 +115,14 @@
     }
   ],
 
-  "conferences": [
-    {
-      "name": "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation",
-      "event": "IEEE CIEES 2025",
-      "award": "Best Paper Award"
-    },
-    {
-      "name": "AI-Based Surveillance with YOLOv8",
-      "event": "IEEE FMLDS 2025"
-    },
-    {
-      "name": "Stress Detection using PPG",
-      "event": "QPAIN 2025"
-    },
-    {
-      "name": "Type-2 Diabetes Prediction (IEF)",
-      "event": "ICCIT 2024"
-    }
-  ],
-
   "projects": [
     {
       "name": "AI-Based Real-Time Fire & Accident Detection System",
-      "summary": "UGC-funded project using YOLOv8 for fire, accident, and license plate detection",
+      "description": "UGC-funded project using YOLOv8 for surveillance and public safety.",
       "highlights": [
         "Data preprocessing (histogram equalization, optical flow)",
         "Model training and evaluation",
-        "System integration with Telegram and Twilio alerts"
+        "Integrated alert system using Telegram and Twilio"
       ]
     },
     {
@@ -152,7 +132,7 @@
       "name": "Dual-Axis Solar Tracking System"
     },
     {
-      "name": "Smart Home Security System using Object Recognition"
+      "name": "Smart Home Security System"
     },
     {
       "name": "ICE Connect App"
@@ -161,15 +141,15 @@
 
   "skills": [
     {
-      "name": "Programming",
+      "name": "Programming Languages",
       "keywords": ["Python", "C", "C++", "Java", "PHP", "MATLAB", "Arduino"]
     },
     {
-      "name": "Web",
+      "name": "Web Frameworks",
       "keywords": ["Django", "Flask", "Bottle", "WordPress"]
     },
     {
-      "name": "Database",
+      "name": "Databases",
       "keywords": ["MySQL", "SQLite", "SQL Server"]
     },
     {
@@ -182,56 +162,77 @@
     {
       "name": "Deep Learning with PyTorch: Image Segmentation",
       "issuer": "Coursera",
-      "credentialId": "J9DDSNF5RK7U"
+      "date": "2024"
     },
     {
       "name": "Python for Everybody Specialization",
-      "issuer": "University of Michigan (Coursera)",
-      "credentialId": "4VWXRCJBTJSA"
+      "issuer": "Coursera",
+      "date": "2024"
     },
     {
-      "name": "Reviewer Certificate - ICEEI2025"
+      "name": "Reviewer Certificate (ICEEI2025)",
+      "date": "2025"
     }
   ],
 
   "awards": [
     {
       "title": "Best Paper Award",
-      "event": "IEEE CIEES 2025"
+      "date": "2025",
+      "awarder": "IEEE CIEES Conference"
     },
     {
       "title": "Best Idea Donor",
-      "event": "Innovation Showcase, PUST"
+      "date": "2024",
+      "awarder": "PUST Innovation Showcase"
     }
   ],
 
   "scholarships": [
     {
       "title": "Fully Funded Master's Scholarship",
-      "institution": "Kocaeli University, Turkey",
-      "status": "Admitted (Fall 2025) but study not commenced due to visa constraints"
+      "awarder": "Kocaeli University, Turkey",
+      "date": "2025"
     },
     {
       "title": "University Merit Scholarship",
-      "year": "2021"
+      "date": "2021"
     },
     {
       "title": "University Merit Scholarship",
-      "year": "2022"
+      "date": "2022"
     },
     {
       "title": "University Merit Scholarship",
-      "year": "2023"
+      "date": "2023"
     }
   ],
 
   "volunteer": [
-    "Research Secretary at ICE Association",
-    "District School Team Manager at ICT Olympiad Bangladesh",
-    "Chief of Course Management at RRDW",
-    "Campus Ambassador at Bangladesh Career Olympiad",
-    "Coordinator at Solver Green",
-    "President, Barisal Student Welfare Association"
+    {
+      "organization": "ICE Association",
+      "position": "Research Secretary"
+    },
+    {
+      "organization": "ICT Olympiad Bangladesh",
+      "position": "District School Team Manager"
+    },
+    {
+      "organization": "RRDW",
+      "position": "Chief of Course Management"
+    },
+    {
+      "organization": "Bangladesh Career Olympiad",
+      "position": "Campus Ambassador"
+    },
+    {
+      "organization": "Solver Green",
+      "position": "Coordinator"
+    },
+    {
+      "organization": "Barisal Student Welfare Association",
+      "position": "President"
+    }
   ],
 
   "languages": [
@@ -248,21 +249,15 @@
   "references": [
     {
       "name": "Dr. Md. Imran Hossain",
-      "position": "Associate Professor, Dept. of ICE, PUST",
-      "phone": "+8801759320341",
-      "email": "imran05ice@pust.ac.bd"
+      "reference": "Associate Professor, Dept. of ICE, PUST | imran05ice@pust.ac.bd"
     },
     {
       "name": "Prof. Dr. Md. Anwar Hossain",
-      "position": "Chairman, Dept. of ICE, PUST",
-      "phone": "+8801717330923",
-      "email": "manwar.ice@pust.ac.bd"
+      "reference": "Chairman, Dept. of ICE, PUST | manwar.ice@pust.ac.bd"
     },
     {
       "name": "Prof. Dr. Md. Sarwar Hosain",
-      "position": "Professor, Dept. of ICE, PUST",
-      "phone": "+8801722047833",
-      "email": "sarwar.ice@pust.ac.bd"
+      "reference": "Professor, Dept. of ICE, PUST | sarwar.ice@pust.ac.bd"
     }
   ]
 }
