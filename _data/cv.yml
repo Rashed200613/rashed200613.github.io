@@ -1,189 +1,220 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Md. Rashed
+  label: Researcher in AI, Computer Vision & Medical Imaging
+  email: rashedulislam.ice.pust@gmail.com
+  phone: "+8801780340222"
+  url: https://rashed200613.github.io/
+  summary: >
+    Researcher with a B.Sc. in Information and Communication Engineering from PUST.
+    Experienced in deep learning, biomedical image processing, and AI-based systems.
+    Actively involved in research projects and international publications, focusing
+    on medical imaging and healthcare application systems.
+
+  location:
+    city: Pabna
+    countryCode: BD
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: rashed200613
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      url: https://www.linkedin.com/in/md-rashed-9a9a33217/
+    - network: Google Scholar
+      url: https://scholar.google.com/citations?user=e6PyOpAAAAAJ&hl=en
+    - network: ResearchGate
+      url: https://www.researchgate.net/profile/Md-Rashed-23
+    - network: ORCID
+      url: https://orcid.org/0009-0003-5503-0450
 
   sections:
-    Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
-        highlights:
-          - Description 1.
-          - Description 2.
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: BioRAIN Research Lab
+        position: Research Assistant
+        start_date: 2024-03-01
+        end_date: ""
+        url: https://biorainlab.net/author/md.-rashed/
+        summary: Working on AI and medical imaging research.
         highlights:
-          - Relativity
-          - Description 2.
+          - Develop deep learning models for segmentation tasks
+          - Collaborate on international journal publications
+          - Conduct experiments and model evaluations
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Pabna University of Science and Technology
+        position: Assistant Researcher
+        start_date: 2024-07-01
+        end_date: 2025-06-01
+        summary: Department of Information and Communication Engineering
         highlights:
-          - Description 1.
-          - Description 2.
+          - Worked on academic and research projects
+          - Assisted in research paper writing and experimentation
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+    Education:
+      - institution: Pabna University of Science and Technology
+        area: Information and Communication Engineering
+        studyType: B.Sc. (Engr.)
+        start_date: 2020-03-01
+        end_date: 2025-09-08
+        score: "3.73/4.00"
+        courses:
+          - Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - institution: Charfasson Govt. College
+        studyType: HSC
+        end_date: 2019
+        score: "4.58/5.00"
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - institution: Osmangonj High School
+        studyType: SSC
+        end_date: 2017
+        score: "4.82/5.00"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      - title: Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection
+        publisher: Healthcare Technology Letters
+        releaseDate: 2026
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+      - title: SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound
+        publisher: Scientific Reports 
+        releaseDate: 2026
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+      - title: A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images
+        publisher: Computer Methods and Programs in Biomedicine
+        releaseDate: 2026
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - title: Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach
+        publisher: Cureus
+        releaseDate: 2025
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
+      - title: Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model
+        publisher: IJRPR
+        releaseDate: 2024
 
-      - name: English
-        summary: "Fluent"
+        - title: Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation
+        publisher: CIEES
+        releaseDate: 2025
 
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        - title: An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring
+        publisher: IEEE FMLDS
+        releaseDate: 2025
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+        - title: A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals
+        publisher: IEEE QPAIN
+        releaseDate: 2025
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+        - title: Machine learning-based prediction of nightmares in children: A pediatric psychological integration
+        publisher: IEEE COMPAS
+        releaseDate: 2025
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+        - title: Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model
+        publisher: IEEE QPAIN
+        releaseDate: 2025
+
+        - title: Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)
+        publisher: IEEE ICCIT
+        releaseDate: 2024
+
+        - title: RA-UNET: A deep learning approach for precise colorectal polyp segmentation
+        publisher: UCICS
+        releaseDate: 2024
+
+        - title: Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features 
+        publisher: UCICS
+        releaseDate: 2024
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: AI-Based Real-Time Fire & Accident Detection System
+        description: UGC-funded project for surveillance detection and public safety.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Data preprocessing (histogram equalization, optical flow)
+          - Model training and evaluation
+          - Integrated alert system using Telegram and Twilio
+
+      - name: IoT-Based Smart Waste Management System
+      - name: Dual-Axis Solar Tracking System
+      - name: Smart Home Security System
+      - name: ICE Connect App
+
+    Skills:
+      - name: Programming Languages
+        keywords: [Python, C, C++, Java, PHP, MATLAB, Arduino]
+
+      - name: Web Frameworks
+        keywords: [Django, Flask, Bottle, WordPress]
+
+      - name: Databases
+        keywords: [MySQL, SQLite, SQL Server]
+
+      - name: Tools
+        keywords: [PyCharm, LaTeX, Cisco Packet Tracer, Proteus]
+
+    Certificates:
+      - name: Deep Learning with PyTorch: Image Segmentation
+        issuer: Coursera
+        date: 2024
+
+      - name: Python for Everybody Specialization
+        issuer: Coursera
+        date: 2024
+
+      - name: Reviewer Certificate (ICEEI2025)
+        date: 2025
+
+    Awards:
+      - title: Best Paper Award
+        date: 2025
+        awarder: IEEE CIEES Conference
+
+      - title: Best Idea Donor
+        date: 2024
+        awarder: PUST Innovation Showcase
+
+    Scholarships:
+      - title: Fully Funded Master's Scholarship
+        awarder: Kocaeli University, Turkey (Study not commenced due to visa constraints)
+        date: 2025
+
+      - title: University Merit Scholarship
+        date: 2021
+
+      - title: University Merit Scholarship
+        date: 2022
+
+      - title: University Merit Scholarship
+        date: 2023
+
+    Volunteer:
+      - organization: ICE Association
+        position: Research Secretary
+
+      - organization: ICT Olympiad Bangladesh
+        position: District School Team Manager
+
+      - organization: RRDW
+        position: Chief of Course Management
+
+      - organization: Bangladesh Career Olympiad
+        position: Campus Ambassador
+
+      - organization: Solver Green
+        position: Coordinator
+
+      - organization: Barisal Student Welfare Association
+        position: President
+
+    Languages:
+      - name: English
+        fluency: Fluent
+
+      - name: Bangla
+        fluency: Native
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Md. Imran Hossain
+        reference: Associate Professor, Dept. of ICE, PUST | imran05ice@pust.ac.bd
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Dr. Md. Anwar Hossain
+        reference: Chairman, Dept. of ICE, PUST | manwar.ice@pust.ac.bd
+
+      - name: Prof. Dr. Md. Sarwar Hosain
+        reference: Professor, Dept. of ICE, PUST | sarwar.ice@pust.ac.bd
