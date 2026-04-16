@@ -4,8 +4,7 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf:
-cv_format: rendercv # options: rendercv, jsonresume
+cv_pdf: # you can also use external links here
 description:
 toc:
   sidebar: left
