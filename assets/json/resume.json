@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Riad Hassan",
-    "label": "Researcher in AI/ML for Medical Imaging",
-    "image": "Riad_Hassan_Profile.png",
-    "url": "https://riadhassan.github.io",
+    "name": "Md. Rashed",
+    "label": "Researcher at BioRAIN Lab",
+    "image": "Rashed_Profile.png",
+    "url": "https://rashed200613.github.io",
     "summary": "AI researcher specializing in medical image segmentation with expertise in deep learning frameworks and computer vision applications.",
     "location": {
-      "city": "Dhaka",
+      "city": "Pabna",
       "countryCode": "BD"
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "riadhassan",
-        "url": "https://github.com/riadhassan"
+        "username": "rashed200613",
+        "url": "https://github.com/rashed200613"
       }
     ]
   },
