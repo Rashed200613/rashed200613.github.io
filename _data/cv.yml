@@ -2,38 +2,51 @@ cv:
   name: Md. Rashed
   label: Researcher in AI, Computer Vision & Medical Imaging
   email: rashedulislam.ice.pust@gmail.com
-  phone: "+8801780340222"
-  url: https://rashed200613.github.io/
-  summary: >
-    Researcher with a B.Sc. in Information and Communication Engineering from PUST.
-    Experienced in deep learning, biomedical image processing, and AI-based systems.
-    Actively involved in research projects and international publications, focusing
-    on medical imaging and healthcare application systems.
-
-  location:
-    city: Pabna
-    countryCode: BD
+  location: Pabna, Bangladesh
+  image: ""
+  summary: Researcher with a B.Sc. in Information and Communication Engineering from PUST. Experienced in deep learning, biomedical image processing, and AI-based systems. Actively involved in research projects and international publications, focusing on medical imaging and healthcare applications.
 
   social_networks:
     - network: GitHub
       username: rashed200613
     - network: LinkedIn
-      url: https://www.linkedin.com/in/md-rashed-9a9a33217/
+      username: md-rashed-9a9a33217
     - network: Google Scholar
-      url: https://scholar.google.com/citations?user=e6PyOpAAAAAJ&hl=en
+      username: e6PyOpAAAAAJ
     - network: ResearchGate
-      url: https://www.researchgate.net/profile/Md-Rashed-23
+      username: Md-Rashed-23
     - network: ORCID
-      url: https://orcid.org/0009-0003-5503-0450
+      username: 0009-0003-5503-0450
 
   sections:
+    Education:
+      - institution: Pabna University of Science and Technology
+        location: Pabna, Bangladesh
+        area: Information and Communication Engineering
+        studyType: B.Sc. (Engr.)
+        start_date: 2020-03-01
+        end_date: 2025-09-08
+        score: "3.73/4.00"
+        courses: "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
+
+      - institution: Charfasson Govt. College
+        location: Bangladesh
+        studyType: HSC
+        end_date: 2019
+        score: "4.58/5.00"
+
+      - institution: Osmangonj High School
+        location: Bangladesh
+        studyType: SSC
+        end_date: 2017
+        score: "4.82/5.00"
 
     Experience:
       - company: BioRAIN Research Lab
         position: Research Assistant
+        location: Bangladesh
         start_date: 2024-03-01
         end_date: ""
-        url: https://biorainlab.net/author/md.-rashed/
         summary: Working on AI and medical imaging research.
         highlights:
           - Develop deep learning models for segmentation tasks
@@ -42,32 +55,13 @@ cv:
 
       - company: Pabna University of Science and Technology
         position: Assistant Researcher
+        location: Pabna, Bangladesh
         start_date: 2024-07-01
         end_date: 2025-06-01
         summary: Department of Information and Communication Engineering
         highlights:
           - Worked on academic and research projects
           - Assisted in research paper writing and experimentation
-
-    Education:
-      - institution: Pabna University of Science and Technology
-        area: Information and Communication Engineering
-        studyType: B.Sc. (Engr.)
-        start_date: 2020-03-01
-        end_date: 2025-09-08
-        score: "3.73/4.00"
-        courses:
-          - Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging
-
-      - institution: Charfasson Govt. College
-        studyType: HSC
-        end_date: 2019
-        score: "4.58/5.00"
-
-      - institution: Osmangonj High School
-        studyType: SSC
-        end_date: 2017
-        score: "4.82/5.00"
 
     Publications:
       - title: Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection
@@ -91,7 +85,7 @@ cv:
         releaseDate: 2024
 
       - title: Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation
-        publisher: CIEES
+        publisher: IEEE CIEES
         releaseDate: 2025
 
       - title: An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring
@@ -124,38 +118,42 @@ cv:
 
     Projects:
       - name: AI-Based Real-Time Fire & Accident Detection System
-        description: UGC-funded project for surveillance detection and public safety.
+        summary: UGC-funded project for surveillance detection and public safety.
         highlights:
           - Data preprocessing (histogram equalization, optical flow)
           - Model training and evaluation
           - Integrated alert system using Telegram and Twilio
+        start_date: 2024
+        end_date: 2025
 
       - name: IoT-Based Smart Waste Management System
       - name: Dual-Axis Solar Tracking System
       - name: Smart Home Security System
       - name: ICE Connect App
 
+      - name: GitHub Contributions
+        highlights:
+          - Prettier code formatter (#95) – Commit 6896633 pushed
+          - Check for broken links on site (#91) – completed
+
     Skills:
-      - name: Programming Languages
-        keywords: [Python, C, C++, Java, PHP, MATLAB, Arduino]
+      - name: Programming & Tools
+        keywords: "Python, C, C++, Java, PHP, MATLAB, Arduino, Django, Flask, MySQL, SQLite, PyCharm, LaTeX"
 
-      - name: Web Frameworks
-        keywords: [Django, Flask, Bottle, WordPress]
-
-      - name: Databases
-        keywords: [MySQL, SQLite, SQL Server]
-
-      - name: Tools
-        keywords: [PyCharm, LaTeX, Cisco Packet Tracer, Proteus]
+    Languages:
+      - name: English
+        summary: Fluent
+      - name: Bangla
+        summary: Native
 
     Certificates:
       - name: Deep Learning with PyTorch: Image Segmentation
-        issuer: Coursera
         date: 2024
+        issuer: Coursera
 
       - name: Python for Everybody Specialization
-        issuer: Coursera
         date: 2024
+        issuer: Coursera
 
       - name: Reviewer Certificate (ICEEI2025)
         date: 2025
@@ -168,46 +166,6 @@ cv:
       - title: Best Idea Donor
         date: 2024
         awarder: PUST Innovation Showcase
-
-    Scholarships:
-      - title: Fully Funded Master's Scholarship
-        awarder: Kocaeli University, Turkey (Study not commenced due to visa constraints)
-        date: 2025
-
-      - title: University Merit Scholarship
-        date: 2021
-
-      - title: University Merit Scholarship
-        date: 2022
-
-      - title: University Merit Scholarship
-        date: 2023
-
-    Volunteer:
-      - organization: ICE Association
-        position: Research Secretary
-
-      - organization: ICT Olympiad Bangladesh
-        position: District School Team Manager
-
-      - organization: RRDW
-        position: Chief of Course Management
-
-      - organization: Bangladesh Career Olympiad
-        position: Campus Ambassador
-
-      - organization: Solver Green
-        position: Coordinator
-
-      - organization: Barisal Student Welfare Association
-        position: President
-
-    Languages:
-      - name: English
-        fluency: Fluent
-
-      - name: Bangla
-        fluency: Native
 
     References:
       - name: Dr. Md. Imran Hossain
