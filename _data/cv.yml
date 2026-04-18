@@ -1,189 +1,413 @@
 cv:
   name: Md. Rashed
-  label: Researcher at BioRAIN Lab
-  email: rashedulislam.ice.pust@gmail.com 
-  location: Dhaka, Bangladesh 
+  label: Research Assistant at BioRAIN Lab
+  email: rashedulislam.ice.pust@gmail.com
+  location: Pabna, Bangladesh
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A B.Sc. (Engr.) graduate in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Has actively engaged in academic, co-curricular, and research activities, completed several government-funded research and innovation projects, and published research papers in peer-reviewed international journals. Research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). Currently seeking a Research Associate/teaching position at a university to contribute to both education and research.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
       username: example
     - network: LinkedIn
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: ""
+    city: Pabna
+    region: Rajshahi
+    postalCode: "6600"
+    countryCode: BD
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Pabna University of Science and Technology (PUST)
+        location: Pabna-6600, Bangladesh
+        url: ""
+        area: Information and Communication Engineering (ICE)
+        studyType: B.Sc. (Engineering)
+        start_date: ""
+        end_date: 2023
+        score: "3.73 (Scale of 4)"
+        courses: "Biomedical Image Processing, Deep Learning, Machine Learning, IoT"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
+          - "Exam held in 2025 due to COVID-19"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Charfasson Govt. College
+        location: Charfasson, Bangladesh
+        area: Science
+        studyType: Higher Secondary Certificate (HSC)
+        start_date: ""
+        end_date: 2019
+        score: "4.58 (Scale of 5)"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Group: Science"
+
+      - institution: Osmangonj High School
+        location: Charfasson, Bhola, Bangladesh
+        area: Science
+        studyType: Secondary School Certificate (SSC)
+        start_date: ""
+        end_date: 2017
+        score: "4.82 (Scale of 5)"
+        highlights:
+          - "Group: Science"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: BioRAIN Lab
+        position: Research Assistant
+        location: Remote / Online
+        start_date: 2024-03-01
+        end_date: present
+        summary: "Website: https://biorainlab.net/author/md.-rashed/"
         highlights:
-          - Relativity
-          - Description 2.
+          - Biomedical Image Processing
+          - Deep Learning
+          - Medical Image Segmentation
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+      - company: Department of ICE, Pabna University of Science and Technology (PUST)
+        position: Assistant Researcher
+        location: Pabna, Bangladesh
+        start_date: 2024-07-01
+        end_date: 2025-06-01
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Best Paper Award
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "IEEE CIEES 2025 Conference, Ruse, Bulgaria"
+        date: 2025-11-28
+        awarder: IEEE CIEES 2025 Conference
+        url: "https://doi.org/10.1109/CIEES66347.2025.11300119"
+        summary: "Paper titled 'Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation' received the Best Paper Award at the IEEE CIEES 2025 Conference held in Ruse, Bulgaria, November 26-28, 2025."
 
-      - title: Max Planck Medal
+      - title: Best Idea Donor
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Pabna University of Science and Technology (PUST)"
+        date: 2024
+        awarder: Pabna University of Science and Technology (PUST)
+        summary: "Best Idea Donor at the Innovation Showcase organized to implement e-Governance and Innovation Plan 2023-2024 under Annual Performance Agreement 2023-2024, PUST."
+
+      - title: Fully Funded Master's Scholarship
+        authors:
+          - "Kocaeli University, Izmit, Turkey"
+        date: 2025
+        awarder: Kocaeli University, Turkey
+        summary: "Admitted to M.S. in Computer Science at Kocaeli University, Izmit, Turkey (Fall 2025). Enrollment not commenced due to visa constraints."
+
+      - title: University Merit Scholarship
+        authors:
+          - "Pabna University of Science and Technology (PUST)"
+        date: 2023
+        awarder: Pabna University of Science and Technology (PUST)
+        summary: "University Merit Scholarship - 2021, 2022, 2023"
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Md. Rashed
+          - Md. Imran Hossain
+          - Abdullah Nazib
+          - Md. Riad Hassan
+        publisher: Computer Methods and Programs in Biomedicine
+        releaseDate: 2026
+        url: ""
+        summary: "[Submitted] Comparative study of fully convolutional networks for multi-class segmentation in ultrasound medical images."
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Md. Rashed
+          - Md. Imran Hossain
+          - Md Jamil
+          - Md. Riad Hassan
+          - Md. Kamrul Hasan
+          - Adnan Kavak
+          - Özgür Çakır
+        publisher: Biomedical Signal Processing and Control
+        releaseDate: 2026
+        url: ""
+        summary: "[Submitted] Spatial and channel refinement approach for robust multi-anatomical structure segmentation in abdominal ultrasound."
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Md. Rashed
+          - Mohammad Kamrul Hasan
+          - Md. Imran Hossain
+          - Md. Sarwar Hosain
+          - Abdul Hadi Abd Rahman
+          - Shayla Islam
+        publisher: Healthcare Technology Letters
+        releaseDate: 2026
+        url: ""
+        summary: "[Accepted, not online yet] Deep feature extraction and ensemble-based machine learning for breast cancer detection."
+
+      - title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach"
+        authors:
+          - Md. Rashed
+          - Md Imran Hossain
+          - Akif Mahdi
+          - Gulam Mustofa
+        publisher: "Cureus Journals, vol. 2, no. 1"
+        releaseDate: 2025
+        url: ""
+        summary: "Hybrid machine learning approach using stacking classifier and meta-model for Type 2 Diabetes Mellitus prediction."
+
+      - title: "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model"
+        authors:
+          - Md Imran Hossain
+          - Md Mojahidul Islam
+          - Tania Nahrin
+          - Md. Rashed
+          - Md Atiqur
+        publisher: "International Journal of Research Publication and Reviews (IJRPR), ISSN 2582-7421"
+        releaseDate: 2024
+        url: ""
+        summary: "Hybrid CNN-LSTM-KNN model for improving speech emotion recognition and classification accuracy."
+
+      - title: "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation"
+        authors:
+          - Md. Rashed
+          - M. I. Hossain
+          - A. Kavak
+        publisher: "2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), Ruse, Bulgaria"
+        releaseDate: 2025
+        url: "https://doi.org/10.1109/CIEES66347.2025.11300119"
+        summary: "pp. 1-6. [Received the Best Paper Award]"
+
+      - title: "An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring"
+        authors:
+          - Md. Rashed
+          - M. I. Hossain
+          - M. Z. Islam
+          - F. Naznin
+        publisher: "2025 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Los Angeles, CA, USA"
+        releaseDate: 2025
+        url: "https://doi.org/10.1109/FMLDS67896.2025.00032"
+        summary: "pp. 139-144."
+
+      - title: "A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals"
+        authors:
+          - Md. Rashed
+          - Md Basim Al Zabir Shammo
+          - Md Imran Hossain
+          - Md Anwar Hossain
+          - Jakaria Habib
+        publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
+        releaseDate: 2025
+        url: ""
+        summary: "pp. 1-5."
+
+      - title: "Machine learning-based prediction of nightmares in children: A pediatric psychological integration"
+        authors:
+          - L. Islam
+          - Md. I. Hossain
+          - Md. Rashed
+          - M. B. A. Z. Shammo
+          - M. H. Mohona
+          - Md. A. Miya
+        publisher: "2nd IEEE Conference on Computing Applications and Systems (COMPAS), Oct. 23-24, 2025"
+        releaseDate: 2025
+        url: ""
+        summary: "Machine learning-based approach for predicting nightmares in children."
+
+      - title: "Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model"
+        authors:
+          - Md Habibul Islam
+          - Md. Rashed
+          - Nitun Kumar Podder
+          - Md Imran Hossain
+          - Ankur Kumar Mondol
+        publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
+        releaseDate: 2025
+        url: ""
+        summary: "pp. 1-6."
+
+      - title: "Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)"
+        authors:
+          - Md. Rashed
+          - Md Imran Hossain
+          - Md Anwar Hossain
+        publisher: "2024 27th International Conference on Computer and Information Technology (ICCIT), IEEE"
+        releaseDate: 2024
+        url: ""
+        summary: "pp. 2512-2517."
+
+      - title: "RA-UNET: A deep learning approach for precise colorectal polyp segmentation"
+        authors:
+          - MD. R. Hossain
+          - Md. Rashed
+          - Md. I. Hossain
+          - A. Mahdi
+          - Sumayta Shama
+        publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
+        releaseDate: 2024
+        url: "https://ucics.org/"
+        summary: "Conference-proceeding."
+
+      - title: "Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features"
+        authors:
+          - M. R. Kundu
+          - Md. I. Hossain
+          - Md. Rashed
+          - Md. A. Rahim
+          - S. Shama
+        publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
+        releaseDate: 2024
+        url: "https://ucics.org/"
+        summary: "Journal-article."
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Programming Languages
+        level: Proficient
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++, Java, PHP, HTML, MATLAB, Arduino"
+
+      - name: Machine Learning & Deep Learning
+        level: Advanced
+        icon: fa-solid fa-brain
+        keywords: "Deep Learning, Machine Learning, PyTorch, YOLOv8, CNN, LSTM, U-Net, Image Segmentation, Biomedical Image Processing"
+
+      - name: Database
+        level: Intermediate
+        icon: fa-solid fa-database
+        keywords: "Microsoft SQL Server, SQLite, MySQL"
+
+      - name: Operating Systems
+        level: Proficient
+        icon: fa-solid fa-desktop
+        keywords: "Windows, Linux"
+
+      - name: Web Frameworks
+        level: Intermediate
+        icon: fa-solid fa-globe
+        keywords: "Django, Bottle, Flask, WordPress (CMS)"
+
+      - name: Computer Tools
+        level: Proficient
+        icon: fa-solid fa-tools
+        keywords: "Cisco Packet Tracer, MATLAB, Proteus Design Suite, PICkit, PyCharm, LaTeX, Microsoft Office"
 
     Languages:
-      - name: German
+      - name: English
+        summary: "Fluent - medium of instruction throughout the B.Sc. (Engineering) program"
+
+      - name: Bangla
         summary: "Native speaker"
 
-      - name: English
-        summary: "Fluent"
-
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Research
+        icon: fa-solid fa-microscope
+        keywords: "Biomedical Image Processing, Deep Learning, Machine Learning, Internet of Things (IoT), Medical Image Segmentation, Computer Vision"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Deep Learning with PyTorch - Image Segmentation
+        date: ""
+        issuer: Coursera Project Network
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Python for Everybody (Specialization)
+        date: ""
+        issuer: University of Michigan (via Coursera)
+        icon: fa-solid fa-certificate
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - name: Certificate of Appreciation as Reviewer
+        date: 2025-11-15
+        issuer: "10th International Conference on Electrical Engineering and Informatics (ICEEI2025), Kuching, Sarawak, Malaysia"
+        icon: fa-solid fa-award
+
+      - name: Professional Membership Certificate
+        date: 2025-01-01
+        issuer: Institute of Electrical and Electronics Engineers (IEEE)
+        icon: fa-solid fa-id-card
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: AI-Based Real-Time Fire & Accident Detection System
+        summary: "A real-time surveillance system using YOLOv8 to detect fire incidents, road accidents, and vehicle number plates from CCTV footage. Funded by the University Grants Commission (UGC). Contributed to data preprocessing (histogram equalization and optical flow), model training, system integration, and a dual-alert notification system using Telegram and Twilio."
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - YOLOv8 Real-Time Detection
+          - UGC Funded Research
+          - Dual-Alert System (Telegram & Twilio)
+        start_date: ""
+        end_date: ""
+
+      - name: IoT-Based Smart Waste Management System
+        summary: "An Internet of Things (IoT)-based smart trash can monitoring system that detects current trash receptivity to develop a smart garbage cleanup solution for a cleaner environment."
+        highlights:
+          - IoT Sensor Integration
+          - Smart City Application
+        start_date: ""
+        end_date: ""
+
+      - name: Design and Implementation of the Dual-Axis Solar Tracking System
+        summary: "A dual-axis solar PLC-based automatic tracking system with supervisory and control capabilities designed to maximize energy generation by following sunlight intensity on a photovoltaic panel."
+        highlights:
+          - PLC-Based Automation
+          - Renewable Energy
+        start_date: ""
+        end_date: ""
+
+      - name: Design of Smart Home Security System using Object Recognition and PIR Sensor
+        summary: "A home security system with human detection capability using a PIR sensor on Arduino and a webcam on Raspberry Pi 3. Detects movement and captures images for human recognition and alerts."
+        highlights:
+          - Raspberry Pi & Arduino
+          - PIR Sensor & Object Recognition
+        start_date: ""
+        end_date: ""
+
+      - name: "ICE Connect App: A Unified Information Portal for PUST ICE Department"
+        summary: "An Android app for the Department of ICE at PUST providing detailed profiles of all ICE students and faculty members, enabling easy access to academic information and improving communication within the department."
+        highlights:
+          - Android App Development
+          - Academic Information Portal
+        start_date: ""
+        end_date: ""
+
+    Volunteer:
+      - company: ICE Association, PUST
+        position: Research Secretary
+        location: Pabna, Bangladesh
+        start_date: ""
+        end_date: ""
+
+      - company: ICT Olympiad Bangladesh
+        position: District School Team Manager
+        location: Bangladesh
+        start_date: ""
+        end_date: ""
+
+      - company: RRDW - Robotics Research and Development Wings
+        position: Chief of Course Management
+        location: Bangladesh
+        start_date: ""
+        end_date: ""
+
+      - company: Bangladesh Career Olympiad
+        position: Campus Ambassador
+        location: Bangladesh
+        start_date: ""
+        end_date: ""
+
+      - company: Solver Green (IT org)
+        position: Coordinator of Volunteers
+        location: Bangladesh
+        start_date: ""
+        end_date: ""
+
+      - company: Barisal Student Welfare Association
+        position: President
+        location: Bangladesh
+        start_date: ""
+        end_date: ""
 
     References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Dr. Md. Imran Hossain
+        icon: fa-solid fa-user-tie
+        reference: "Associate Professor, Dept. of ICE, Pabna University of Science and Technology, Pabna-6600, Bangladesh. Phone: +8801759320341, Email: imran05ice@pust.ac.bd"
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Prof. Dr. Md. Anwar Hossain
+        icon: fa-solid fa-user-tie
+        reference: "Chairman, Dept. of ICE, Pabna University of Science and Technology, Pabna-6600, Bangladesh. Phone: +8801717330923, Email: manwar.ice@pust.ac.bd"
+
+      - name: Prof. Dr. Md. Sarwar Hosain
+        icon: fa-solid fa-user-tie
+        reference: "Dept. of ICE, Pabna University of Science and Technology, Pabna-6600, Bangladesh. Phone: +8801722047833, Email: sarwar.ice@pust.ac.bd"
