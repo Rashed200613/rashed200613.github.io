@@ -112,7 +112,7 @@ cv:
           - Md. Kamrul Hasan
           - Adnan Kavak
           - Özgür Çakır
-        publisher: Biomedical Signal Processing and Control
+        publisher: Scientific Reports
         releaseDate: 2026
         url: ""
         summary: "[Submitted] Spatial and channel refinement approach for robust multi-anatomical structure segmentation in abdominal ultrasound."
@@ -136,9 +136,9 @@ cv:
           - Md Imran Hossain
           - Akif Mahdi
           - Gulam Mustofa
-        publisher: "Cureus Journals, vol. 2, no. 1"
+        publisher: "Cureus Journal of Computer Science"
         releaseDate: 2025
-        url: ""
+        url: "https://assets.cureusjournals.com/artifacts/upload/original_article/pdf/3135/20250304-116426-3b7a2e.pdf"
         summary: "Hybrid machine learning approach using stacking classifier and meta-model for Type 2 Diabetes Mellitus prediction."
 
       - title: "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model"
@@ -150,7 +150,7 @@ cv:
           - Md Atiqur
         publisher: "International Journal of Research Publication and Reviews (IJRPR), ISSN 2582-7421"
         releaseDate: 2024
-        url: ""
+        url: "https://www.researchgate.net/profile/Md-Rashed-23/publication/384067491_Improving_Speech_Emotion_Recognition_and_Classification_Accuracy_Using_Hybrid_CNN-LSTM-KNN_Model/links/66e8664901cba963bf2491b4/Improving-Speech-Emotion-Recognition-and-Classification-Accuracy-Using-Hybrid-CNN-LSTM-KNN-Model.pdf"
         summary: "Hybrid CNN-LSTM-KNN model for improving speech emotion recognition and classification accuracy."
 
       - title: "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation"
@@ -160,7 +160,7 @@ cv:
           - A. Kavak
         publisher: "2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), Ruse, Bulgaria"
         releaseDate: 2025
-        url: "https://doi.org/10.1109/CIEES66347.2025.11300119"
+        url: "https://ieeexplore.ieee.org/abstract/document/11300119/"
         summary: "pp. 1-6. [Received the Best Paper Award]"
 
       - title: "An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring"
@@ -183,7 +183,7 @@ cv:
           - Jakaria Habib
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/abstract/document/11171913/"
         summary: "pp. 1-5."
 
       - title: "Machine learning-based prediction of nightmares in children: A pediatric psychological integration"
@@ -196,7 +196,7 @@ cv:
           - Md. A. Miya
         publisher: "2nd IEEE Conference on Computing Applications and Systems (COMPAS), Oct. 23-24, 2025"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/abstract/document/11381639/"
         summary: "Machine learning-based approach for predicting nightmares in children."
 
       - title: "Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model"
@@ -208,7 +208,7 @@ cv:
           - Ankur Kumar Mondol
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
-        url: ""
+        url: "https://ieeexplore.ieee.org/abstract/document/11171716/"
         summary: "pp. 1-6."
 
       - title: "Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)"
@@ -218,7 +218,7 @@ cv:
           - Md Anwar Hossain
         publisher: "2024 27th International Conference on Computer and Information Technology (ICCIT), IEEE"
         releaseDate: 2024
-        url: ""
+        url: "https://ieeexplore.ieee.org/abstract/document/11022451/"
         summary: "pp. 2512-2517."
 
       - title: "RA-UNET: A deep learning approach for precise colorectal polyp segmentation"
@@ -231,7 +231,7 @@ cv:
         publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
         releaseDate: 2024
         url: "https://ucics.org/"
-        summary: "Conference-proceeding."
+        summary: "Conference-proceeding"
 
       - title: "Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features"
         authors:
@@ -243,7 +243,7 @@ cv:
         publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
         releaseDate: 2024
         url: "https://ucics.org/"
-        summary: "Journal-article."
+        summary: "Conference-proceeding"
 
     Skills:
       - name: Programming Languages
@@ -278,10 +278,10 @@ cv:
 
     Languages:
       - name: English
-        summary: "Fluent - medium of instruction throughout the B.Sc. (Engineering) program"
+        summary: "Have a good command of speaking, listening, reading, and writing. English was the medium of instruction throughout the B.Sc. (Engineering) program"
 
       - name: Bangla
-        summary: "Native speaker"
+        summary: "Native Language"
 
     Interests:
       - name: Research
@@ -290,12 +290,12 @@ cv:
 
     Certificates:
       - name: Deep Learning with PyTorch - Image Segmentation
-        date: ""
+        date: "2023"
         issuer: Coursera Project Network
         icon: fa-solid fa-certificate
 
       - name: Python for Everybody (Specialization)
-        date: ""
+        date: "2023"
         issuer: University of Michigan (via Coursera)
         icon: fa-solid fa-certificate
 
@@ -355,38 +355,38 @@ cv:
       - company: ICE Association, PUST
         position: Research Secretary
         location: Pabna, Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2024"
+        end_date: "2025"
 
       - company: ICT Olympiad Bangladesh
         position: District School Team Manager
         location: Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2022"
+        end_date: "2023"
 
       - company: RRDW - Robotics Research and Development Wings
         position: Chief of Course Management
         location: Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2022"
+        end_date: "2023"
 
       - company: Bangladesh Career Olympiad
         position: Campus Ambassador
         location: Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2023"
+        end_date: "2024"
 
       - company: Solver Green (IT org)
         position: Coordinator of Volunteers
         location: Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2024"
+        end_date: "2025"
 
       - company: Barisal Student Welfare Association
         position: President
         location: Bangladesh
-        start_date: ""
-        end_date: ""
+        start_date: "2024"
+        end_date: "2025"
 
     References:
       - name: Dr. Md. Imran Hossain
