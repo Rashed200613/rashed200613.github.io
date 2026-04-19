@@ -31,7 +31,7 @@ cv:
           - "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
 
       - institution: Charfasson Govt. College
-        location: Charfasson, Bhola, Barisal, Bangladesh
+        location: Charfasson, Bhola
         studyType: Higher Secondary Certificate (HSC)
         start_date: "2017"
         end_date: 2019
@@ -40,7 +40,7 @@ cv:
           - "Group: Science"
 
       - institution: Osmangonj Secondary School
-        location: Charfasson, Bhola, Bangladesh
+        location: Charfasson, Bhola
         studyType: Secondary School Certificate (SSC)
         start_date: "2015"
         end_date: 2017
@@ -101,7 +101,7 @@ cv:
           - Md. Riad Hassan
         publisher: Computer Methods and Programs in Biomedicine
         releaseDate: 2026
-        summary: "[Submitted] Comparative study of fully convolutional networks for multi-class segmentation in ultrasound medical images."
+        summary: "[Submitted]"
 
       - title: "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
         authors:
@@ -114,7 +114,7 @@ cv:
           - Özgür Çakır
         publisher: Scientific Reports
         releaseDate: 2026
-        summary: "[Submitted] Spatial and channel refinement approach for robust multi-anatomical structure segmentation in abdominal ultrasound."
+        summary: "[Submitted]"
 
       - title: "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection"
         authors:
@@ -126,7 +126,7 @@ cv:
           - Shayla Islam
         publisher: Healthcare Technology Letters
         releaseDate: 2026
-        summary: "[Accepted, not online yet] Deep feature extraction and ensemble-based machine learning for breast cancer detection."
+        summary: "[Accepted, not online yet]"
 
       - title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach"
         authors:
@@ -137,7 +137,7 @@ cv:
         publisher: "Cureus Journal of Computer Science"
         releaseDate: 2025
         url: "https://assets.cureusjournals.com/artifacts/upload/original_article/pdf/3135/20250304-116426-3b7a2e.pdf"
-        summary: "Hybrid machine learning approach using stacking classifier and meta-model for Type 2 Diabetes Mellitus prediction."
+       
 
       - title: "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model"
         authors:
@@ -149,7 +149,7 @@ cv:
         publisher: "International Journal of Research Publication and Reviews (IJRPR), ISSN 2582-7421"
         releaseDate: 2024
         url: "https://www.researchgate.net/profile/Md-Rashed-23/publication/384067491_Improving_Speech_Emotion_Recognition_and_Classification_Accuracy_Using_Hybrid_CNN-LSTM-KNN_Model/links/66e8664901cba963bf2491b4/Improving-Speech-Emotion-Recognition-and-Classification-Accuracy-Using-Hybrid-CNN-LSTM-KNN-Model.pdf"
-        summary: "Hybrid CNN-LSTM-KNN model for improving speech emotion recognition and classification accuracy."
+       
 
       - title: "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation"
         authors:
@@ -159,7 +159,7 @@ cv:
         publisher: "2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), Ruse, Bulgaria"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11300119/"
-        summary: "pp. 1-6. [Received the Best Paper Award]"
+        summary: "[Received the Best Paper Award]"
 
       - title: "An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring"
         authors:
@@ -170,7 +170,7 @@ cv:
         publisher: "2025 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Los Angeles, CA, USA"
         releaseDate: 2025
         url: "https://doi.org/10.1109/FMLDS67896.2025.00032"
-        summary: "pp. 139-144."
+
 
       - title: "A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals"
         authors:
@@ -182,7 +182,7 @@ cv:
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11171913/"
-        summary: "pp. 1-5."
+       
 
       - title: "Machine learning-based prediction of nightmares in children: A pediatric psychological integration"
         authors:
@@ -195,7 +195,7 @@ cv:
         publisher: "2nd IEEE Conference on Computing Applications and Systems (COMPAS), Oct. 23-24, 2025"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11381639/"
-        summary: "Machine learning-based approach for predicting nightmares in children."
+        
 
       - title: "Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model"
         authors:
@@ -207,7 +207,7 @@ cv:
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11171716/"
-        summary: "pp. 1-6."
+     
 
       - title: "Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)"
         authors:
@@ -217,7 +217,7 @@ cv:
         publisher: "2024 27th International Conference on Computer and Information Technology (ICCIT), IEEE"
         releaseDate: 2024
         url: "https://ieeexplore.ieee.org/abstract/document/11022451/"
-        summary: "pp. 2512-2517."
+       
 
       - title: "RA-UNET: A deep learning approach for precise colorectal polyp segmentation"
         authors:
@@ -229,7 +229,7 @@ cv:
         publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
         releaseDate: 2024
         url: "https://ucics.org/"
-        summary: "Conference-proceeding"
+        
 
       - title: "Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features"
         authors:
@@ -241,7 +241,7 @@ cv:
         publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
         releaseDate: 2024
         url: "https://ucics.org/"
-        summary: "Conference-proceeding"
+       
 
     Skills:
       - name: Programming Languages
@@ -358,31 +358,31 @@ cv:
 
       - company: ICT Olympiad Bangladesh
         position: District School Team Manager
-        location: Bangladesh
+        location: Pabna, Bangladesh
         start_date: "2022"
         end_date: "2023"
 
       - company: RRDW - Robotics Research and Development Wings
         position: Chief of Course Management
-        location: Bangladesh
+        location: Pabna, Bangladesh
         start_date: "2022"
         end_date: "2023"
 
       - company: Bangladesh Career Olympiad
         position: Campus Ambassador
-        location: Bangladesh
+        location: Pabna, Bangladesh
         start_date: "2023"
         end_date: "2024"
 
       - company: Solver Green (IT org)
         position: Coordinator of Volunteers
-        location: Bangladesh
+        location: Pabna, Bangladesh
         start_date: "2024"
         end_date: "2025"
 
       - company: Barisal Student Welfare Association
         position: President
-        location: Bangladesh
+        location: Pabna, Bangladesh
         start_date: "2024"
         end_date: "2025"
 
