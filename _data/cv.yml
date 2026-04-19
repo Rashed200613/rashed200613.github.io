@@ -4,20 +4,23 @@ cv:
   email: rashedulislam.ice.pust@gmail.com
   location: Pabna, Bangladesh
   image: ""
-  summary: I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Throughout my academic journey, I have actively engaged in academic, cocurricular, and research activities. I have successfully completed several government-funded research and innovation projects and have published research papers in peer-reviewed international journals. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). I am currently seeking a Research Associate/teaching position at a university where I can contribute to both education and research.
-      username: example
+  summary: I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Throughout my academic journey, I have actively engaged in academic, co-curricular, and research activities. I have successfully completed several government-funded research and innovation projects and have published research papers in peer-reviewed international journals. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). I am currently seeking a Research Associate/teaching position at a university where I can contribute to both education and research.
+
+  social_networks:
+    - network: GitHub
+      username: rashed200613
     - network: LinkedIn
-      username: example
+      username: md-rashed-9a9a33217
 
   address:
     city: Pabna
-    region: Rajshahi, Bangladesh 
-    countryCode: BD 
+    region: Rajshahi, Bangladesh
+    countryCode: BD
 
   sections:
     Education:
-      - institution: Pabna University of Science and Technology (PUST).
-        location: Pabna, Bangladesh.
+      - institution: Pabna University of Science and Technology (PUST)
+        location: Pabna, Bangladesh
         url: "https://pust.ac.bd/"
         area: Information and Communication Engineering (ICE)
         studyType: B.Sc. (Engineering)
@@ -52,7 +55,6 @@ cv:
         start_date: 2024-03-01
         end_date: present
         summary: "Website: https://biorainlab.net/author/md.-rashed/"
-        
 
       - company: Department of ICE, Pabna University of Science and Technology (PUST)
         position: Assistant Researcher
@@ -71,12 +73,12 @@ cv:
 
       - title: Best Idea Donor
         authors:
-          - " Awarded by Pabna University of Science and Technology (PUST)"
+          - "Awarded by Pabna University of Science and Technology (PUST)"
         date: 2024
-        awarder: Awarded by Pabna University of Science and Technology (PUST)
+        awarder: Pabna University of Science and Technology (PUST)
         summary: "Best Idea Donor at the Innovation Showcase organized to implement e-Governance and Innovation Plan 2023-2024 under Annual Performance Agreement 2023-2024, PUST."
 
-      - title: Fully Funded Master's Scholarship
+      - title: "Fully Funded Master's Scholarship"
         authors:
           - "Kocaeli University, Izmit, Turkey"
         date: 2025
@@ -86,8 +88,7 @@ cv:
       - title: University Merit Scholarship
         authors:
           - "Dept. of Information and Communication Engineering"
-        start_date: 2021
-        end_date: 2023
+        date: 2023
         awarder: Pabna University of Science and Technology (PUST)
         summary: "University Merit Scholarship - 2021, 2022, 2023"
 
@@ -100,7 +101,6 @@ cv:
           - Md. Riad Hassan
         publisher: Computer Methods and Programs in Biomedicine
         releaseDate: 2026
-        url: ""
         summary: "[Submitted] Comparative study of fully convolutional networks for multi-class segmentation in ultrasound medical images."
 
       - title: "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
@@ -114,7 +114,6 @@ cv:
           - Özgür Çakır
         publisher: Scientific Reports
         releaseDate: 2026
-        url: ""
         summary: "[Submitted] Spatial and channel refinement approach for robust multi-anatomical structure segmentation in abdominal ultrasound."
 
       - title: "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection"
@@ -127,7 +126,6 @@ cv:
           - Shayla Islam
         publisher: Healthcare Technology Letters
         releaseDate: 2026
-        url: ""
         summary: "[Accepted, not online yet] Deep feature extraction and ensemble-based machine learning for breast cancer detection."
 
       - title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach"
