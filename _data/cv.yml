@@ -4,52 +4,43 @@ cv:
   email: rashedulislam.ice.pust@gmail.com
   location: Pabna, Bangladesh
   image: ""
-  summary: A B.Sc. (Engr.) graduate in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Has actively engaged in academic, co-curricular, and research activities, completed several government-funded research and innovation projects, and published research papers in peer-reviewed international journals. Research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). Currently seeking a Research Associate/teaching position at a university to contribute to both education and research.
-
-  social_networks:
-    - network: GitHub
+  summary: I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Throughout my academic journey, I have actively engaged in academic, cocurricular, and research activities. I have successfully completed several government-funded research and innovation projects and have published research papers in peer-reviewed international journals. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). I am currently seeking a Research Associate/teaching position at a university where I can contribute to both education and research.
       username: example
     - network: LinkedIn
       username: example
 
   address:
-    street: ""
-    city: Pabna
-    region: Rajshahi
-    postalCode: "6600"
-    countryCode: BD
+    city: Pabna-6600
+    region: Rajshahi, Bangladesh 
+    countryCode: BD 
 
   sections:
     Education:
-      - institution: Pabna University of Science and Technology (PUST)
-        location: Pabna-6600, Bangladesh
-        url: ""
+      - institution: Pabna University of Science and Technology (PUST).
+        location: Pabna-6600, Bangladesh.
+        url: "https://pust.ac.bd/"
         area: Information and Communication Engineering (ICE)
         studyType: B.Sc. (Engineering)
-        start_date: ""
-        end_date: 2023
+        start_date: "2020"
+        end_date: "2025"
         score: "3.73 (Scale of 4)"
-        courses: "Biomedical Image Processing, Deep Learning, Machine Learning, IoT"
         highlights:
-          - "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
-          - "Exam held in 2025 due to COVID-19"
+          - "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
 
       - institution: Charfasson Govt. College
-        location: Charfasson, Bangladesh
-        area: Science
+        location: Charfasson, Bhola, Barisal, Bangladesh
         studyType: Higher Secondary Certificate (HSC)
-        start_date: ""
-        end_date: 2019
+        start_date: "2017"
+        end_date: "2019"
         score: "4.58 (Scale of 5)"
         highlights:
           - "Group: Science"
 
-      - institution: Osmangonj High School
+      - institution: Osmangonj Secondary School
         location: Charfasson, Bhola, Bangladesh
-        area: Science
         studyType: Secondary School Certificate (SSC)
-        start_date: ""
-        end_date: 2017
+        start_date: "2015"
+        end_date: "2017"
         score: "4.82 (Scale of 5)"
         highlights:
           - "Group: Science"
@@ -57,35 +48,32 @@ cv:
     Experience:
       - company: BioRAIN Lab
         position: Research Assistant
-        location: Remote / Online
+        location: Remote
         start_date: 2024-03-01
         end_date: present
         summary: "Website: https://biorainlab.net/author/md.-rashed/"
-        highlights:
-          - Biomedical Image Processing
-          - Deep Learning
-          - Medical Image Segmentation
+        
 
       - company: Department of ICE, Pabna University of Science and Technology (PUST)
         position: Assistant Researcher
-        location: Pabna, Bangladesh
+        location: Pabna-6600, Bangladesh
         start_date: 2024-07-01
         end_date: 2025-06-01
 
     Awards:
       - title: Best Paper Award
         authors:
-          - "IEEE CIEES 2025 Conference, Ruse, Bulgaria"
+          - "Md. Rashed, Md. Imran Hossain, and Adnan Kavak"
         date: 2025-11-28
-        awarder: IEEE CIEES 2025 Conference
+        awarder: 2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), Ruse, Bulgaria
         url: "https://doi.org/10.1109/CIEES66347.2025.11300119"
         summary: "Paper titled 'Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation' received the Best Paper Award at the IEEE CIEES 2025 Conference held in Ruse, Bulgaria, November 26-28, 2025."
 
       - title: Best Idea Donor
         authors:
-          - "Pabna University of Science and Technology (PUST)"
+          - " Awarded by Pabna University of Science and Technology (PUST)"
         date: 2024
-        awarder: Pabna University of Science and Technology (PUST)
+        awarder: Awarded by Pabna University of Science and Technology (PUST)
         summary: "Best Idea Donor at the Innovation Showcase organized to implement e-Governance and Innovation Plan 2023-2024 under Annual Performance Agreement 2023-2024, PUST."
 
       - title: Fully Funded Master's Scholarship
@@ -97,8 +85,9 @@ cv:
 
       - title: University Merit Scholarship
         authors:
-          - "Pabna University of Science and Technology (PUST)"
-        date: 2023
+          - "Dept. of Information and Communication Engineering"
+        start_date: 2021
+        end_date: 2023
         awarder: Pabna University of Science and Technology (PUST)
         summary: "University Merit Scholarship - 2021, 2022, 2023"
 
