@@ -10,14 +10,14 @@ cv:
       username: example
 
   address:
-    city: Pabna-6600
+    city: Pabna
     region: Rajshahi, Bangladesh 
     countryCode: BD 
 
   sections:
     Education:
       - institution: Pabna University of Science and Technology (PUST).
-        location: Pabna-6600, Bangladesh.
+        location: Pabna, Bangladesh.
         url: "https://pust.ac.bd/"
         area: Information and Communication Engineering (ICE)
         studyType: B.Sc. (Engineering)
@@ -56,7 +56,7 @@ cv:
 
       - company: Department of ICE, Pabna University of Science and Technology (PUST)
         position: Assistant Researcher
-        location: Pabna-6600, Bangladesh
+        location: Pabna, Bangladesh
         start_date: 2024-07-01
         end_date: 2025-06-01
 
