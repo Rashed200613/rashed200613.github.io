@@ -22,7 +22,7 @@ cv:
         area: Information and Communication Engineering (ICE)
         studyType: B.Sc. (Engineering)
         start_date: "2020"
-        end_date: "2025"
+        end_date: 2025
         score: "3.73 (Scale of 4)"
         highlights:
           - "Thesis: A Fully Convolutional Network for Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
@@ -31,7 +31,7 @@ cv:
         location: Charfasson, Bhola, Barisal, Bangladesh
         studyType: Higher Secondary Certificate (HSC)
         start_date: "2017"
-        end_date: "2019"
+        end_date: 2019
         score: "4.58 (Scale of 5)"
         highlights:
           - "Group: Science"
@@ -40,7 +40,7 @@ cv:
         location: Charfasson, Bhola, Bangladesh
         studyType: Secondary School Certificate (SSC)
         start_date: "2015"
-        end_date: "2017"
+        end_date: 2017
         score: "4.82 (Scale of 5)"
         highlights:
           - "Group: Science"
