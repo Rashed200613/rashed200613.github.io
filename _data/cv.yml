@@ -124,9 +124,9 @@ cv:
           - Md. Sarwar Hosain
           - Abdul Hadi Abd Rahman
           - Shayla Islam
-        publisher: Healthcare Technology Letters
+        publisher: Healthcare Technology Letters (Wiley)
         releaseDate: 2026
-        summary: "[Accepted, not online yet]"
+        url: "https://doi.org/10.1049/htl2.70062"
 
       - title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach"
         authors:
