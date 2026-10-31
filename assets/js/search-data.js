@@ -74,6 +74,11 @@ ninja.data = [{
           description: "CSE 0611-1101 | Theory | 1st Year 1st Semester | Dept. of CSE, University of Brahmanbaria",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/computer-programming-techniques/";
+            },},{id: "teachings-web-technology-amp-sessional",
+          title: 'Web Technology &amp;amp; Sessional',
+          description: "CSE 0613-3233 | Theory &amp; Sessional | 3rd Year 2nd Semester | Dept. of CSE, University of Brahmanbaria",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/web-technology/";
             },},{
         id: 'social-email',
         title: 'email',
