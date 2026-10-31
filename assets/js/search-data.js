@@ -68,7 +68,7 @@ ninja.data = [{
           title: 'Advanced Object-Oriented Programming',
           description: "CSE 0613-3121 | Theory | 3rd Year 1st Semester | Dept. of CSE, University of Brahmanbaria",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
+              window.location.href = "/teachings/Advanced-Object-Oriented-Programming/";
             },},{
         id: 'social-email',
         title: 'email',
