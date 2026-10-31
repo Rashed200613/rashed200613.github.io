@@ -69,6 +69,11 @@ ninja.data = [{
           description: "CSE 0613-3121 | Theory | 3rd Year 1st Semester | Dept. of CSE, University of Brahmanbaria",
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/Advanced-Object-Oriented-Programming/";
+            },},{id: "teachings-computer-programming-techniques",
+          title: 'Computer Programming Techniques',
+          description: "CSE 0611-1101 | Theory | 1st Year 1st Semester | Dept. of CSE, University of Brahmanbaria",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/computer-programming-techniques/";
             },},{
         id: 'social-email',
         title: 'email',
