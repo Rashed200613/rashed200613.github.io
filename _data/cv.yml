@@ -1,8 +1,8 @@
 cv:
   name: Md. Rashed
-  label: Research Assistant at BioRAIN Lab
+  label: Lecturer in CSE, University of Brahmanbaria
   email: rashedulislam.ice.pust@gmail.com
-  location: Pabna, Bangladesh
+  location: Brahmanbaria-3400, Bangladesh
   image: ""
   summary: I received my B.Sc. (Engr.) in Information and Communication Engineering from Pabna University of Science and Technology (PUST). Throughout my academic journey, I have actively engaged in academic, co-curricular, and research activities. I have successfully completed several government-funded research and innovation projects and have published research papers in peer-reviewed international journals. My research interests include Biomedical Image Processing, Deep Learning, Machine Learning, and the Internet of Things (IoT). I am currently seeking a Research Associate/teaching position at a university where I can contribute to both education and research.
 
@@ -13,8 +13,8 @@ cv:
       username: md-rashed-9a9a33217
 
   address:
-    city: Pabna
-    region: Rajshahi, Bangladesh
+    city: Brahmanbaria
+    region: Chattogram, Bangladesh
     countryCode: BD
 
   sections:
@@ -49,13 +49,20 @@ cv:
           - "Group: Science"
 
     Experience:
+      - company: University of Brahmanbaria
+        position: Lecturer
+        location: Brahmanbaria-3400, Bangladesh
+        start_date: 2026-09-13
+        end_date: present
+        summary: "Website: https://uob.edu.bd/cse/employees/md-rashed/"
+        
       - company: BioRAIN Lab
         position: Research Assistant
         location: Remote
         start_date: 2024-03-01
         end_date: present
         summary: "Website: https://biorainlab.net/author/md.-rashed/"
-
+        
       - company: Department of ICE, Pabna University of Science and Technology (PUST)
         position: Assistant Researcher
         location: Pabna, Bangladesh
@@ -93,29 +100,7 @@ cv:
         summary: "University Merit Scholarship - 2021, 2022, 2023"
 
     Publications:
-      - title: "A Comparative Analysis of Fully Convolutional Networks for Multi-Class Segmentation in US Medical Images"
-        authors:
-          - Md. Rashed
-          - Md. Imran Hossain
-          - Abdullah Nazib
-          - Md. Riad Hassan
-        publisher: Computer Methods and Programs in Biomedicine
-        releaseDate: 2026
-        summary: "[Submitted]"
-
-      - title: "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
-        authors:
-          - Md. Rashed
-          - Md. Imran Hossain
-          - Md Jamil
-          - Md. Riad Hassan
-          - Md. Kamrul Hasan
-          - Adnan Kavak
-          - Özgür Çakır
-        publisher: Scientific Reports
-        releaseDate: 2026
-        summary: "[Submitted]"
-
+      # ---------------- JOURNAL PAPERS ----------------
       - title: "Trustworthy Deep Feature Extraction and Ensemble-Based Machine Learning Approach for Breast Cancer Detection"
         authors:
           - Md. Rashed
@@ -127,6 +112,93 @@ cv:
         publisher: Healthcare Technology Letters (Wiley)
         releaseDate: 2026
         url: "https://doi.org/10.1049/htl2.70062"
+        summary: "[Q2 | CiteScore 5.8 | IF 3.3]"
+
+      - title: "A Standardized Comparative Benchmark of Fully Convolutional and Hybrid Deep Networks for Multi-Anatomical Structure Segmentation in Ultrasound Imaging"
+        authors:
+          - Md. Rashed
+          - Md. Riad Hassan
+          - Md. Imran Hossain
+          - Md Rakibul Islam
+          - Feroza Naznin
+          - Md Zahidul Islam
+        publisher: Biomedical Signal Processing and Control (Elsevier)
+        releaseDate: 2026
+        summary: "[Q1] [Under Review]"
+
+      - title: "ACMS-Net: A Lightweight Adaptive Multi-Scale Feature Learning with Cross-Scale Attention Network for Multi-Class Classification of Gallbladder Disease in Ultrasound Images"
+        authors:
+          - Md. Rashed
+          - Faisal Iqbal Hiron
+          - Md. Imran Hossain
+          - Md. Sarwar Hosain
+          - Ohidujjaman
+          - Md Zahidul Islam
+          - Tetsuya Shimamura
+        publisher: IEEE Access
+        releaseDate: 2026
+        summary: "[Q1] [Under Review]"
+
+      - title: "BADF-Net: A Method for Enhancing Abdominal Ultrasound Diagnosis via Boundary-Aware Dynamic Fusion Network-Based Multi-Anatomical Structure Segmentation"
+        authors:
+          - Md. Rashed
+          - Muhammad Jamil
+          - Md. Imran Hossain
+          - Adnan Kavak
+          - Md. Riad Hassan
+          - Ohidujjaman
+          - Md. Sarwar Hosain
+          - Özgür Çakır
+          - Hossein Fotouhi
+        publisher: Diagnostics (MDPI)
+        releaseDate: 2026
+        summary: "[Q1] [Under Review]"
+
+      - title: "AI-Assisted Nutrition Estimation and Exercise Support for Integrated Lifestyle Management in Patients with Diabetes"
+        authors:
+          - M. Jamil
+          - A. Kavak
+          - H. Fotouhi
+          - Md. Rashed
+          - E. Gezer
+          - A. B. İnner
+          - G. Srivastava
+        publisher: Nutrients (MDPI)
+        releaseDate: 2026
+        url: "https://doi.org/10.3390/nu18193207"
+        summary: "[Q1 | IF 5.8 | SCIE Indexed]"
+
+      - title: "SE-UNet: Spatial and Channel Refinement for Robust Multi-Anatomical Structure Segmentation in Abdominal Ultrasound"
+        authors:
+          - Md. Rashed
+          - Md Habibul Islam
+          - Md. Imran Hossain
+          - Md. Sarwar Hosain
+          - Ohidujjaman
+          - Md. Zahidul Islam
+        publisher: Journal of Medical Imaging and Radiation Sciences (Elsevier)
+        releaseDate: 2026
+        summary: "[Q1] [Under Review]"
+
+      - title: "HybridMVNet: A Hybrid MobileNet-VGG19 Ensemble Framework for Accurate Lung Nodule Classification"
+        authors:
+          - Md. Rashed
+          - Muhammad Jamil
+          - Adnan Kavak
+          - Md. Imran Hossain
+          - A F M Zainul Abadin
+          - Md Zahidul Islam
+        publisher: Diagnostics (MDPI)
+        releaseDate: 2026
+        summary: "[Q1] [Submitted]"
+
+      - title: "Fine-Tuning Flan-T5 for Automated SOAP Note Generation from Doctor-Patient Dialogues: A Lightweight and Deployable Clinical NLP Pipeline"
+        authors:
+          - Md. Rashed
+          - Manik Kumer Saha
+        publisher: PLOS ONE
+        releaseDate: 2026
+        summary: "[Q1] [Submitted]"
 
       - title: "Hybrid Machine Learning Models for Accurate Type 2 Diabetes Mellitus Prediction Using a Stacking Classifier and a Meta-Model Approach"
         authors:
@@ -137,7 +209,17 @@ cv:
         publisher: "Cureus Journal of Computer Science"
         releaseDate: 2025
         url: "https://assets.cureusjournals.com/artifacts/upload/original_article/pdf/3135/20250304-116426-3b7a2e.pdf"
-       
+
+      - title: "Continuous Blood Pressure Estimation Without a Cuff Using Deep Learning on PPG and ECG Signals"
+        authors:
+          - M. R. Kundu
+          - Md. I. Hossain
+          - Md. Rashed
+          - M. A. Rahim
+          - S. Shama
+        publisher: "Varendra International Journal for Interdisciplinary Research (VIJIR)"
+        releaseDate: 2025
+        url: "https://doi.org/10.64296/vijir.v1i2.03"
 
       - title: "Improving Speech Emotion Recognition and Classification Accuracy Using Hybrid CNN-LSTM-KNN Model"
         authors:
@@ -149,8 +231,8 @@ cv:
         publisher: "International Journal of Research Publication and Reviews (IJRPR), ISSN 2582-7421"
         releaseDate: 2024
         url: "https://www.researchgate.net/profile/Md-Rashed-23/publication/384067491_Improving_Speech_Emotion_Recognition_and_Classification_Accuracy_Using_Hybrid_CNN-LSTM-KNN_Model/links/66e8664901cba963bf2491b4/Improving-Speech-Emotion-Recognition-and-Classification-Accuracy-Using-Hybrid-CNN-LSTM-KNN-Model.pdf"
-       
 
+      # ---------------- CONFERENCE PAPERS ----------------
       - title: "Da-RDU-Net: Dual Attention and Residual Double U-Net for Colorectal Polyp Segmentation"
         authors:
           - Md. Rashed
@@ -159,7 +241,7 @@ cv:
         publisher: "2025 6th International Conference on Communications, Information, Electronic and Energy Systems (CIEES), Ruse, Bulgaria"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11300119/"
-        summary: "[Received the Best Paper Award]"
+        summary: "[Received the Best Paper Award] [Scopus Indexed]"
 
       - title: "An Intelligent Video Surveillance System with Temporal-Enhanced YOLOv8 for Real-Time Fire, Accident, and License Plate Detection in Public Safety Monitoring"
         authors:
@@ -170,7 +252,7 @@ cv:
         publisher: "2025 IEEE International Conference on Future Machine Learning and Data Science (FMLDS), Los Angeles, CA, USA"
         releaseDate: 2025
         url: "https://doi.org/10.1109/FMLDS67896.2025.00032"
-
+        summary: "[Scopus Indexed]"
 
       - title: "A Machine Learning Framework for Stress Detection Using Photoplethysmography (PPG) Signals"
         authors:
@@ -182,7 +264,7 @@ cv:
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11171913/"
-       
+        summary: "[Scopus Indexed]"
 
       - title: "Machine learning-based prediction of nightmares in children: A pediatric psychological integration"
         authors:
@@ -195,7 +277,7 @@ cv:
         publisher: "2nd IEEE Conference on Computing Applications and Systems (COMPAS), Oct. 23-24, 2025"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11381639/"
-        
+        summary: "[Scopus Indexed]"
 
       - title: "Enhancing COPD Detection with WaveNet: Assessing the Efficacy of Deep Learning Model"
         authors:
@@ -207,7 +289,7 @@ cv:
         publisher: "2025 International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN), IEEE"
         releaseDate: 2025
         url: "https://ieeexplore.ieee.org/abstract/document/11171716/"
-     
+        summary: "[Scopus Indexed]"
 
       - title: "Enhanced Prediction of Type-2 Diabetes Mellitus Using an Integrated Ensemble Framework (IEF)"
         authors:
@@ -217,7 +299,7 @@ cv:
         publisher: "2024 27th International Conference on Computer and Information Technology (ICCIT), IEEE"
         releaseDate: 2024
         url: "https://ieeexplore.ieee.org/abstract/document/11022451/"
-       
+        summary: "[Scopus Indexed]"
 
       - title: "RA-UNET: A deep learning approach for precise colorectal polyp segmentation"
         authors:
@@ -229,7 +311,6 @@ cv:
         publisher: "Undergraduate Conference on Intelligent Computing and Systems (UCICS 2024)"
         releaseDate: 2024
         url: "https://ucics.org/"
-        
 
       - title: "Continuous Cuffless Blood Pressure Monitoring with Deep-Learning Techniques Utilizing PPG and ECG Features"
         authors:
